@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url(https://images.unsplash.com/photo-1560977501-7cb367eccebe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGhlcm1vbWV0ZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60);
-    
+    background-image: url(https://media.istockphoto.com/id/505852736/photo/below-zero-degree-celsius-temperature-in-sunset-above-town.jpg?s=612x612&w=0&k=20&c=KWA3Tea0wWIf3FP5RVaAPXlsfKkjujxyvWeRkr3T_XU=);
+    background-size: cover;
   }
   
   .container {
@@ -13,18 +13,21 @@ body {
     padding-bottom: 60px;
     background-color: #fff;
     border-radius: 15px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 0px 10px rgba(226, 7, 7, 0.2);
     background-image: url(https://wallpaperaccess.com/full/684837.jpg);
     position: relative;
     background-size: cover;
     border: 2px solid aqua;
+    transform: scale(1.01);
+    transition: 0.2s;
+    box-shadow: 0 0 15px rgb(99, 91, 179);
   }
   
   h2 {
     text-align: center;
     margin-top: 50px;
-    color: #333;
-    font-size: 35px;
+    color: #150a0a;
+    font-size: 45px;
     
   }
   
@@ -49,9 +52,12 @@ body {
     font-weight: bold;
     border: 2px solid orange;
     position: relative;
-    box-shadow: 0px 0px 10px rgb(0, 0, 0, 0.2);
+    box-shadow: 0px 0px 10px rgba(215, 3, 3, 0.2);
     text-transform: uppercase;
     cursor: pointer;
+    transform: scale(1.01);
+    transition: 0.2s;
+    box-shadow: 0 0 15px rgb(99, 91, 179);
   }
   
   label {
@@ -77,18 +83,23 @@ body {
   }
   
   .container button{
-    padding: 6px 12px;
-
-    position: relative;
-    text-align: center;
-    margin: 0px 210px;
-    display: flex;
-    justify-content: center;
-    border-radius: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    transform: scale(1.01);
+    transition: 0.2s;
+    box-shadow: 0 0 15px rgb(99, 91, 179);
+    margin: 0px 220px;  
   }
   .container button:hover{
-    box-shadow: 0px 0px 10px rgba(212, 23, 23, 0.2);
     cursor: pointer;
     background-color: #6e8eff;
+    transform: scale(1.01);
+    transition: 0.2s;
+    box-shadow: 0px 0px 10px rgba(212, 23, 23, 0.2);
   }
   
