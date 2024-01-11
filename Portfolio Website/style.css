@@ -6,7 +6,8 @@ body {
     padding: 0;
     font-family: Arial, sans-serif;
     background-color: #2c2727;
-    background-image: url(https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?w=1380&t=st=1691223906~exp=1691224506~hmac=722e29840dbbc2383a92028c2426bb9ac6326a0fbe8e54fde1157b1e08c49a80);
+    background-image: url(https://img.freepik.com/free-vector/circles-background-dark-tones_60389-166.jpg);
+    background-size: cover;
   }
   
   @keyframes fadeInAnimation {
@@ -112,7 +113,8 @@ body {
     justify-content: space-around;
     align-items: center;
     padding: 20px;
-    background-image: url(https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?w=1380&t=st=1691223906~exp=1691224506~hmac=722e29840dbbc2383a92028c2426bb9ac6326a0fbe8e54fde1157b1e08c49a80);
+    background-image: url(https://img.freepik.com/free-vector/circles-background-dark-tones_60389-166.jpg);
+    background-size: cover;
     object-fit: cover;
     box-shadow: 14px 12px 12px -8px rgb(47, 33, 199);
     border-radius: 40px;
@@ -193,7 +195,8 @@ body {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     grid-gap: 20px;
-    background-image: url(https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?w=1380&t=st=1691223906~exp=1691224506~hmac=722e29840dbbc2383a92028c2426bb9ac6326a0fbe8e54fde1157b1e08c49a80);
+    background-image: url(https://img.freepik.com/free-vector/circles-background-dark-tones_60389-166.jpg);
+    background-size: cover;
     padding: 50px;
     object-fit: cover;
     border: 2px solid #007ced;
@@ -284,7 +287,8 @@ body {
     background-color: #2c2727;
     padding: 80px 0;
     text-align: center;
-    background-image: url(https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?w=1380&t=st=1691223906~exp=1691224506~hmac=722e29840dbbc2383a92028c2426bb9ac6326a0fbe8e54fde1157b1e08c49a80);
+    background-image: url(https://img.freepik.com/free-vector/circles-background-dark-tones_60389-166.jpg);
+    background-size: cover;
   }
   
   .container {
@@ -335,7 +339,7 @@ body {
     border: solid rgb(67, 88, 190);
     border-radius: 30px;
     margin: 40px 20px;
-    background-image: url(https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?w=1380&t=st=1691223906~exp=1691224506~hmac=722e29840dbbc2383a92028c2426bb9ac6326a0fbe8e54fde1157b1e08c49a80);
+    background-color: transparent;
     object-fit: cover;
     padding: 30px;
     box-shadow: 0px 12px 12px -8px rgb(47, 33, 199);
